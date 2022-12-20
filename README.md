@@ -4,7 +4,7 @@
 #### When viewing the file you can:
 
 * Download the file and open it in [Visual Studio Code](https://code.visualstudio.com/)
-* Use and online HTML Reader
+* Use an online HTML Reader to view archive.
 
 
 
